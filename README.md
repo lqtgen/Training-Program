@@ -1,2 +1,2 @@
 # Training-Program
-Undergraduate Training Program for Innovation and Entrepreneurship（大创）
+Undergraduate Training Program for Innovation and Entrepreneurship
